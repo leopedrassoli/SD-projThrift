@@ -7,7 +7,7 @@ package projthrift;
 import chavevalor.*;
 import org.apache.thrift.TException;
 
-public class ProjThrift {
+public class Main {
 
     public static void main(String[] args) throws TException {
         ChaveValorHandler handler = new ChaveValorHandler();
